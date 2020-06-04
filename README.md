@@ -1,14 +1,14 @@
 # Unit 10 OOP Homework: Template Engine - Employee Summary
 
-  * Created by Erik Adames
+  * Created by davidmichaelhughey@gmail.com
 
-  * Github Repo Link: https://github.com/egadames/hw8
+  * Github Repo Link: https://github.com/Eyeball1/hw8/
 
-  * Github Live Link: https://egadames.github.io/hw8/output/team.html
+  * Github Live Link: https://Eyeball1.github.io/hw8/output/team.html
 
 ## Description 
 
-  * This app creates CLT that allows a user to setup their team. It first add the user to give information about the manager of the team then it will load a prompt to ask if any other member needs to be added. It gives the options of added an intern or engineer and if selected it will load questions about that position. It will continue to prompt the user until the team is complete. Once complete, it will load all the infomation into an html file that can be accessed at the above link. 
+  * This app creates CLT that allows a user to setup a team. It first adds the user to give information about the manager of the team then it will load a prompt to ask if any other member needs to be added. It gives the options of added an intern or engineer and if selected it will load questions about that position. It will continue to prompt the user until the team is complete. Once complete, it will load all the infomation into an html file that can be accessed at the above link. 
 
 ## Table of Contents 
 
@@ -22,7 +22,7 @@
 
 ## Installation
 
-  * A npm i needs to be performed before running the app to install needed libraries.
+  * An 'npm i' needs to be performed before running the app to install needed libraries.
 
 ## Usage 
 
@@ -38,7 +38,7 @@
 
 ## Contributing
 
-  * please make a git pull request
+  * do make a git pull request
 
 ## Tests
 
@@ -46,7 +46,7 @@
 
 ## Screenshots
 
-![app screenshot](https://github.com/egadames/hw8/blob/master/img/screenshot.JPG)
+![app screenshot](https://github.com/Eyeball1/hw8/blob/master/img/screenshot.JPG)
 
 ## Questions
 
@@ -54,5 +54,5 @@
 
   * User GitHub email
 
-    * Email: egadames990@gmail.com
+    * Email:  davidmichaelhughey@gmail.com
   
